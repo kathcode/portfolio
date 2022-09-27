@@ -1,0 +1,47 @@
+{
+  "firstName": "Catalina",
+  "lastName": "Meneses",
+  "profession": "Software engineer",
+  "about": "",
+  "skills": [
+    {
+      "name": "Javascript",
+      "percentage": 10
+    },
+    {
+      "name": "Typescript",
+      "percentage": 7
+    },
+    {
+      "name": "React",
+      "percentage": 9
+    },
+    {
+      "name": "Angular",
+      "percentage": 6
+    }
+  ],
+  "work": [
+    {
+      "company": "Epam",
+      "startDate": "",
+      "endDate": "",
+      "description": "",
+      "skills": [
+        "Javascript"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Clock",
+      "url": "",
+      "image": ""
+    }
+  ],
+  "contact": {
+    "email": "kathmene27@gmail.com",
+    "city": "",
+    "phone": ""
+  }
+}
